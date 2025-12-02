@@ -1,2 +1,2 @@
 # calculator
-calc
+calculator app
